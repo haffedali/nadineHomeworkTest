@@ -1,0 +1,36 @@
+body {
+    background-color: #0f0f0f;
+    color: #ffffff;
+}
+
+.content {
+    padding: 4rem;
+}
+.card {
+    color: #000000;
+    padding: 1.5rem;
+}
+.primary-heading {
+    font-size: 4rem;
+}
+.burger-img {
+    height: 100vh;
+}
+.new-entry {
+    margin: 2rem;
+}
+#add-entry, #add-entry-btn {
+    display: inline-block;
+}
+#add-entry {
+    width: 25rem;
+}
+#add-entry-btn {
+    color: #ffffff;
+    font-size: 2.25rem;
+    margin: 1.5rem;
+}
+.card {
+    background-color: #ffffff10;
+    color: #ffffff;
+}
